@@ -1,0 +1,42 @@
+div {
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+    min-width: 400px;
+}
+
+#input-el {
+    height: 50px;
+    width: 100%;
+    border: 2px solid #5f9341;
+    color: black;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+#input-btn , #save-tab{
+    height: 42px;
+    font-size: 20px;
+    background-color: #5f9341;
+    color: white;
+    font-weight: bold;
+    border:1px solid #5f9341;
+}
+
+#delete-btn {
+    height: 42px;
+    font-size: 20px;
+    background-color: white;
+    color: #5f9341;
+    font-weight: bold;
+    border: 1px solid #5f9341;
+}
+
+ul {
+    list-style: none;
+}
+
+li a {
+    color: #5f9341;
+    font-size: 19px;
+}
